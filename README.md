@@ -2,6 +2,11 @@
 
 A simple GUI tool to modify `progressionPoints` in Craftomation101 save files.
 
+> ⚠️ **Warning**  
+> This tool is in **early development** and has **not been fully tested** across all Craftomation101 save conditions.  
+> Editing binary files always carries some risk — incorrect changes may **corrupt your save files**.  
+> **Make a backup** before using this editor.
+
 This editor locates your save files, reads the current progression value, and allows you to adjust it between 1 and 20 using a slider or numeric input. Changes are saved directly to the file with a click.
 
 ## Features
