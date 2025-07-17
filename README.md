@@ -1,4 +1,4 @@
-# Craftomation Save Editor
+# Craftomation Progression Points Editor
 
 A simple GUI tool to modify `progressionPoints` in Craftomation101 save files.
 
